@@ -1,0 +1,26 @@
+{
+	"name" : "light-vue-timepicker",
+	"license": "MIT",
+  	"main": "dist/main.js",
+	"version" : "1.0.00",
+	"description": "Simple timepicker for VUE.JS made with Bootstrap",
+  	"license": "MIT",
+  	"author": "Julien Kennel",
+  	"keywords": [
+	    "vuejs",
+	    "timepicker",
+	    "bootstrap",
+	    "package"
+	],
+	"repository": {
+		"type": "git",
+	    "url": "git://github.com/nahmey/light-vue-timepicker.git"
+	},
+	"bugs": {
+	    "url": "https://github.com/nahmey/vuejs-laravel-table-paginate-crud/issues"
+	},
+	"files": [
+	    "src/*",
+	    "dist/*"
+	]
+}
