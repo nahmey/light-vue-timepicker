@@ -18,13 +18,13 @@ Simple timepicker for VUE.JS made with Bootstrap
 
 Install with npm:
 ```bash
-npm install @nahmey/light-vue-timepicker
+npm i light-vue-timepicker
 ```
 
 Import globally in app.js:
 
 ```javascript
-import LightVueTimepicker from '@nahmey/light-vue-timepicker';
+import LightVueTimepicker from 'light-vue-timepicker';
 Vue.component('light-vue-timepicker', LightVueTimepicker);
 
 
