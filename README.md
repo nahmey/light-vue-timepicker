@@ -41,12 +41,10 @@ Vue.component('light-vue-timepicker', LightVueTimepicker);
 ## Retrieve data
 
 ```javascript
-variable = {
-	yourVmodel.hour,
-	yourVmodel.minute,
-	yourVmodel.second,
-	yourVmodel.a
-}
+yourVmodel.hour
+yourVmodel.minute
+yourVmodel.second
+yourVmodel.a
 ```
 
 ## Props

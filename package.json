@@ -2,7 +2,7 @@
 	"name" : "light-vue-timepicker",
 	"license": "MIT",
   	"main": "dist/main.js",
-	"version" : "1.0.02",
+	"version" : "1.0.03",
 	"description": "Simple timepicker for VUE.JS made with Bootstrap",
   	"license": "MIT",
   	"author": "Julien Kennel",
